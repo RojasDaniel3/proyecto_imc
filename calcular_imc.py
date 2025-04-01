@@ -7,4 +7,4 @@ altura = float(input())
 
 imc = peso / (altura**2)
 
-print(f"Su indice de masa muscular es de: {imc}")
+print(f"Su indice de masa muscular es de: {imc:.2f}")
